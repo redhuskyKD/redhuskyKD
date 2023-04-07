@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently an undergraduate student at Bundelkhand Institute of Engineering and Technology<br>🧑‍🤝‍🧑 I’m looking to collaborate on coding projects<br>🤝 I’m looking for help with building a strong SDE profile<br>🌱 I’m currently learning Web Development, Android Development and Data Science<br>💬 Ask me about music, cinema, mathematics<br>⚡ Fun fact, I am a also a Graphic Designer for 5 years now
+🎓 I’m currently an undergraduate student at Bundelkhand Institute of Engineering and Technology<br>🧑‍🤝‍🧑 I’m looking to collaborate on coding projects<br>🤝 I’m looking for help with building a strong SDE profile<br>🌱 I’m currently learning Web Development, Android Development and Data Science<br>💬 Ask me about music, cinema, mathematics<br>⚡ Fun fact, I am also a Graphic Designer for 5 years now
 
 
 ## 🌐 Socials:
